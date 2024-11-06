@@ -1,3 +1,8 @@
+/*
+Author:samuel mbuya
+Reg No:CT102/G/23825/24
+Date:06/11/2024
+*/
 #include <stdio.h>
 
 int main() {
